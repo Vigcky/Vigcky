@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/your-avatar.png" width="200" height="200">
+  <img src="https://s1.zerochan.net/Sukuna.600.3187836.jpg" width="200" height="200">
 </div>
 
 # Hello, I'm VigcKY! 👋
